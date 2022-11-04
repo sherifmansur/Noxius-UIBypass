@@ -11,5 +11,4 @@ This is a program for do bypass to Siticone.UI, Guna.UI, Siticone.Desktop.UI and
 - discord.gg/noxius
 
 # ShowCase
-
-https://streamable.com/pwq5s3
+<video src="https://streamable.com/pwq5s3" autoplay="true" muted="false" loop="true" poster="https://carontestudio.com/img/contacto.jpg"></video>
