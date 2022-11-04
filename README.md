@@ -11,4 +11,4 @@ This is a program for do bypass to Siticone.UI, Guna.UI, Siticone.Desktop.UI and
 - discord.gg/noxius
 
 # ShowCase
-<video src="cómo insertar videos con html.mp4https://streamable.com/pwq5s3" width="420"  height="240"></video>
+You can view the tutorial & showcase [here](https://streamable.com/pwq5s3)
