@@ -7,8 +7,10 @@ This is a program for do bypass to Siticone.UI, Guna.UI, Siticone.Desktop.UI and
 
 # Credits
 
-- Developed by franafp#0001
-- discord.gg/noxius
+- Developed by  [fran_afp_#0001](https://franafp.es/discord/profile)
+- [Twitter](https://twitter.com/fran_afp_)
+- [YouTube](https://www.youtube.com/fran_afp_)
+- [franafp.es](https://franafp.es)
+# Showcase
 
-# ShowCase
-https://streamable.com/pwq5s3
+https://youtu.be/tAj7T4lTHwA
