@@ -7,7 +7,7 @@ This is a tool for do bypass to Siticone.UI, Guna.UI, Siticone.Desktop.UI and mo
 
 # Credits
 
-- Modified by  [fran_afp_#0001](https://franafp.es/discord/profile)
+- Modified by  rotomicora#0001
 
 # Showcase
 
